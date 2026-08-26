@@ -1129,8 +1129,8 @@ function WorkPage({ navigate }) {
     <>
       <PageHero
         eyebrow="Portfolio"
-        title="Projects built for"
-        accent="Bangladeshi brands."
+        title="Digital experiences"
+        accent="made to stand out."
         copy="Explore our selected work across eCommerce stores, business sites, landing pages, and digital tools."
       />
       <FeaturedWork full navigate={navigate} />

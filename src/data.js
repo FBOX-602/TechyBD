@@ -79,7 +79,7 @@ export const siteSettings = {
       allLinkLabel: "View All Projects →",
       featuredLimit: 6,
       pageEyebrow: "Portfolio",
-      pageTitle: "Projects built for Bangladeshi brands.",
+      pageTitle: "Digital experiences made to stand out.",
       pageCopy: "Explore our complete showcase of eCommerce stores, business sites, landing pages, and web apps.",
     },
     services: {
